@@ -1,0 +1,9 @@
+{
+	"name": "adfcoresa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56f523e7-2d31-4e7e-a9a3-5ab6eaff1f44",
+		"tenantId": "43107c20-c184-4e79-991c-64a319c4fcb1"
+	}
+}
